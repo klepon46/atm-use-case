@@ -1,6 +1,4 @@
-# Simple ATM Use case
 
-Baru! Pintasan keyboard … Pintasan keyboard Drive telah diperbarui untuk memberi Anda navigasi huruf pertama
 # ATM
 
 
